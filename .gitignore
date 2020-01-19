@@ -13,3 +13,24 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+### GoLand ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.csv
+
+# Created by https://www.gitignore.io/api/go
+
+### Go Patch ###
+/vendor/
+/Godeps/
+
+# Created by https://www.gitignore.io/api/intellij
+
+# IntelliJ
+out/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
