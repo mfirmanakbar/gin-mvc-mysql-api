@@ -1,7 +1,7 @@
-##Gin-MVC-MySql-API
+## Gin-MVC-MySql-API
 Implement Go with gin gonic, mvc structure and mysql as API project
 
-###Installation
+### Installation
 1. Create database `pos_db` and the table `products`
     ```mysql
     CREATE TABLE `pos_db`.`products` (
@@ -38,7 +38,7 @@ Implement Go with gin gonic, mvc structure and mysql as API project
 
 5. Then Run it
 
-###API Documentation
+### API Documentation
 1. Create Product
     - Method `POST`
     - URL `http://localhost:8282/products`
